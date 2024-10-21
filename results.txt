@@ -1,0 +1,39 @@
+// RUNNING EITHER PATTERN WILL RESULT IN INFINITE LOOP
+
+Running Pattern 1...
+Thread -2273 exiting
+Thread -2273 exiting
+Thread -2273 exiting
+Thread -2273 exiting
+Thread -2273 exiting
+Thread -2273 exiting
+Thread -2273 exiting
+Thread -2273 exiting
+Thread -2273 exiting
+Thread -2273 exiting
+Thread -2273 exiting
+Thread -2273 exiting
+Thread -2273 exiting
+Thread -2273 exiting
+Thread -2273 exiting
+Thread -2273 exiting
+...
+
+Running Pattern 2...
+Thread 1 (PID: 13462) exiting
+Thread 1 (PID: 13462) exiting
+Thread 1 (PID: 13462) exiting
+Thread 1 (PID: 13462) exiting
+Thread 1 (PID: 13462) exiting
+Thread 1 (PID: 13462) exiting
+Thread 1 (PID: 13462) exiting
+Thread 1 (PID: 13462) exiting
+Thread 1 (PID: 13462) exiting
+Thread 1 (PID: 13462) exiting
+Thread 1 (PID: 13462) exiting
+Thread 1 (PID: 13462) exiting
+Thread 1 (PID: 13462) exiting
+Thread 1 (PID: 13462) exiting
+Thread 1 (PID: 13462) exiting
+Thread 1 (PID: 13462) exiting
+...
